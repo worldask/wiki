@@ -6,7 +6,7 @@
 * [PHP编程规范](http://blog.csdn.net/youacai/article/details/6291422)
 
 ## 内核
-* [PHP内核探索](PHP内核探索,md)
+* [PHP内核探索](PHP内核探索.md)
 * [PHP底层工作原理](http://www.cnblogs.com/phphuaibei/archive/2011/09/13/2174927.html)
 * [探究php底层运行机制](http://stblog.baidu-tech.com/?p=763)
 * [PHP运行模式](http://blog.csdn.net/21aspnet/article/details/7404067)

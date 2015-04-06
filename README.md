@@ -9,7 +9,7 @@
 
 ## [操作系统](wiki/操作系统.md)
 * [Linux](wiki/Linux.md) 
-* [MAC OS X](wiki/MAC OS X.md) 
+* [MAC OS X](wiki/Mac-OS-X.md) 
 
 ## [网络](wiki/网络.md)
 

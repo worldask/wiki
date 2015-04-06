@@ -2,9 +2,9 @@
 * [多媒体](wiki/多媒体.md)
 * [算法](wiki/算法.md)
 * [爬墙技术](wiki/爬墙技术.md) 
-* [编辑/编辑器](wiki/编辑/编辑器.md)
+* [编辑/编辑器](wiki/编辑-编辑器.md)
 * [代码管理](wiki/代码管理.md)
-* [Cheat Sheets](wiki/Cheat Sheets.md)
+* [Cheat Sheets](wiki/Cheat-Sheets.md)
 * [开源](wiki/开源.md)
 
 ## [操作系统](wiki/操作系统.md)

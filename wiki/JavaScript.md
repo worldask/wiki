@@ -37,6 +37,9 @@
     * [JavaScript MVC 框架技术选型](http://segmentfault.com/a/1190000000379723)
     * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
     * [Backbone.js](http://backbonejs.org/) [Backbone Tutorials](http://backbonetutorials.com/) [中文文档](http://www.csser.com/tools/backbone/backbone.js.html)
+* React
+    * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+    * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 * [Prototype.js](http://www.prototypejs.org/)
 * [Underscore.js](http://underscorejs.org/)
 * [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)

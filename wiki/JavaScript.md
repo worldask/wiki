@@ -8,21 +8,24 @@
 * [CommonJS Modules规范](http://www.commonjs.org/specs/modules/1.0/)
 * [为什么移动Web应用程序很慢（译）](http://www.cnblogs.com/codemood/p/3213459.html) [原文](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
 
-## 知识点
-* 继承 [一](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html) [ 二](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html) [ 三](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
-* 闭包
-    * [简单版](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
-    * [综合版](http://www.gracecode.com/archives/2385/)
-    * [闭包与作用域链](http://www.cnblogs.com/wickzly/archive/2011/09/04/2166857.html)
-    * [理解Javascript的闭包](http://coolshell.cn/articles/6731.html)
-* [定义类的三种方法](http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html)
-* JavaScript模块化开发[一](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-basics) [二](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-commonjs) [三](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-amd) [四](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-requirejs) [五](http://www.feeldesignstudio.com/2013/10/javascript-module-pattern-further-reading)
-
 ## 教程
 * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * 阮一峰写的[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [汤姆大叔：深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
+* [JavaScript内部原理系列](https://github.com/trans4fun/posts)
+
+## 知识点
+* 继承 [一](http://www.ruanyifeng.com/blog/2011/06/designing_ideas_of_inheritance_mechanism_in_javascript.html) [ 二](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance.html) [ 三](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_inheritance_continued.html)
+* [Why Prototypal Inheritance Matters](http://aaditmshah.github.io/why-prototypal-inheritance-matters/)
+* 闭包
+    * [简单版](http://www.ruanyifeng.com/blog/2009/08/learning_javascript_closures.html)
+    * [综合版](http://www.gracecode.com/archives/2385/)
+    * [闭包与作用域链](http://www.cnblogs.com/wickzly/archive/2011/09/04/2166857.html)
+    * [理解Javascript的闭包](http://coolshell.cn/articles/6731.html)
+* [How do JavaScript closures work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+* [定义类的三种方法](http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html)
+* JavaScript模块化开发[一](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-basics) [二](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-commonjs) [三](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-amd) [四](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-requirejs) [五](http://www.feeldesignstudio.com/2013/10/javascript-module-pattern-further-reading)
 
 ## 库/框架
 * [TodoMVC](https://github.com/tastejs/todomvc)

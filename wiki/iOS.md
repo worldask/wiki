@@ -41,6 +41,7 @@
 
 ## 测试
 * [iOS测试与集成工具总结](http://www.infoq.com/cn/news/2015/04/ios-testing-ci)
+* [iOS单元测试系列]单元测试框架选型](http://zixun.github.io/blog/2015/04/11/iosdan-yuan-ce-shi-xi-lie-dan-yuan-ce-shi-kuang-jia-xuan-xing/)
 
 ## 技巧
 * [App Store App申请审核加速](http://www.cocoachina.com/appstore/20150203/11097.html)

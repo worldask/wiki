@@ -34,8 +34,6 @@
 * [接口开发](wiki/接口开发.md)
 * [运维](wiki/运维.md)
 
-## [Web开发](wiki/Web开发.md)
-
 ## [浏览器前端技术](wiki/浏览器前端技术.md) 
 * [浏览器](wiki/浏览器.md) 
 * [CSS](wiki/CSS.md) 

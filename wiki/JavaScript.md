@@ -53,9 +53,12 @@
 * 谈谈javascript语法里一些难点问题 [一](http://blog.jobbole.com/81010/) [二](http://blog.jobbole.com/81011/) [三](http://blog.jobbole.com/81018/)
 * [获取页面元素的位置](http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html)
 * [javascript图片预加载技术](http://www.planeart.cn/?p=1121)
-* [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)
-* [10种方式实现跨域资源的共享](http://www.ued163.com/1800/10%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E7%9A%84%E5%85%B1%E4%BA%AB/)
 * [探索无阻塞加载javascript脚本技术](http://www.cnblogs.com/sharpxiajun/p/4072396.html)
+* 跨域
+   * [PHP - 利用P3P实现跨域](http://blog.163.com/niuzai369@126/blog/static/3743091520122733733736/)
+   * [关于p3p 简洁策略,以及浏览器的支持情况](http://www.cnblogs.com/_franky/archive/2011/03/16/1985954.html)
+   * [父子页面之间跨域通信的方法](http://blog.jobbole.com/75036/)
+   * [10种方式实现跨域资源的共享](http://www.ued163.com/1800/10%E7%A7%8D%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%8E%B0%E8%B7%A8%E5%9F%9F%E8%B5%84%E6%BA%90%E7%9A%84%E5%85%B1%E4%BA%AB/)
 
 ## 工具
 * [List of JavaScript Build Tools](https://gist.github.com/callumacrae/9231589)

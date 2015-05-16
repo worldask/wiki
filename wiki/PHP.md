@@ -60,6 +60,7 @@
     * [Peridot](http://peridot-php.github.io/) is a modern testing tool for PHP 5.4+
     * [PHP开源项目使用Travis CI进行持续集成](http://avnpc.com/pages/php-open-source-project-plus-travis-ci)
 * 其它
+    * [非常实用的15款开源PHP类库](http://www.csdn.net/article/2013-10-09/2817123-PHP-Libraries)
     * [The League of Extraordinary Packages](http://thephpleague.com/) is a group of developers who have banded together to build solid, well tested PHP packages using modern coding standards.
     * [一款ORM框架](http://www.phpactiverecord.org/)
     * [php-utf8](http://php-utf8.61924.nl/)

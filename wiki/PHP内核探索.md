@@ -1,5 +1,5 @@
 
-* [TIPI深入理解PHP内核](http://www.php-internal.com/)
+* [TIPI深入理解PHP内核](http://www.php-internals.com/)
 * [风雪之隅PHP源码分析](http://www.laruence.com/php-internal)
 * [《php扩展开发及内核应用》](http://phpbook.sinaapp.com/preface.html)
 * [百度XLQ](http://blog.xiuwz.com/)

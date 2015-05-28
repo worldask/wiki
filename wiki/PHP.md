@@ -1,6 +1,7 @@
 ## 基础
 * [历史](http://www.laruence.com/2012/01/11/2482.html)
 * [PHP官网](http://www.php.net/)     [手册](http://www.php.net/manual/zh/index.php) 
+* [PHP 5.3、5.4、5.5、5.6 中的新特性](http://segmentfault.com/a/1190000002790818)
 * [PHP之道](http://wulijun.github.com/php-the-right-way/)
 * [Specification for PHP](https://github.com/php/php-langspec/blob/master/spec/php-spec-draft.md)
 * [PHP编程规范](http://blog.csdn.net/youacai/article/details/6291422)

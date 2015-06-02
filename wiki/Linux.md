@@ -21,6 +21,7 @@
 * [高效Linux bash快捷键及alias总结](http://segmentfault.com/a/1190000002760973?name=tools&description=&isPrivate=1)
 * [認識與學習 BASH](http://linux.vbird.org/linux_basic/0320bash.php#bash)
 * [Y分钟学Bash](http://segmentfault.com/blog/news/1190000000405060)
+* [tmux入门指南](http://abyssly.com/2013/11/04/tmux_intro/)
 
 
 ## 维护

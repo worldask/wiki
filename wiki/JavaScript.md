@@ -29,23 +29,23 @@
 
 ## 库/框架
 * [TodoMVC](https://github.com/tastejs/todomvc)
+    * [JavaScript MVC 框架技术选型](http://segmentfault.com/a/1190000000379723)
 * [JavaScript基础工具清单](http://blog.jobbole.com/64771/)
 * [全栈式JavaScript](http://blog.jobbole.com/52745/)
+* AngularJs
+    * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
+* [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
+    * [25个超有用的 AngularJS Web 开发工具](http://www.codeceo.com/article/25-angularjs-web-tools.html) 
+* React
+    * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+    * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 * jQuery
     * [jQuery与MooTools库的一些比对](http://www.zhangxinxu.com/wordpress/2011/09/jquery%E4%B8%8Emootools%E5%BA%93%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E5%AF%B9/)
     * [12个学习jQuery的网站](http://www.cnblogs.com/lhb25/archive/2011/04/28/2025752.html)
     * [jQuery数组处理详解](http://mrthink.net/jquery-array-eachgrepinarray/)
     * [jQuery性能优化的28个建议](http://blog.csdn.net/youacai/article/details/7308369)
-* MV*
-    * [JavaScript MVC 框架技术选型](http://segmentfault.com/a/1190000000379723)
-    * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
-    * [Backbone.js](http://backbonejs.org/) [Backbone Tutorials](http://backbonetutorials.com/) [中文文档](http://www.csser.com/tools/backbone/backbone.js.html)
-* React
-    * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
-    * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
 * [Prototype.js](http://www.prototypejs.org/)
 * [Underscore.js](http://underscorejs.org/)
-* [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
 * 图片上传
     * [WebUploader](http://fex-team.github.io/webuploader/demo.html)
 

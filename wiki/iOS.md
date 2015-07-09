@@ -24,6 +24,9 @@
 * [Emulating aspect-fit behaviour using AutoLayout constraints in Xcode 6](http://stackoverflow.com/questions/25766747/emulating-aspect-fit-behaviour-using-autolayout-constraints-in-xcode-6)
 * [UIResponder](http://southpeak.github.io/blog/2015/03/07/uiresponder/)
 
+## React Native
+* [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
+
 ## 第三方框架
 * [极速化 CocoaPods](http://www.cocoachina.com/ios/20150123/11002.html)
 * [一些资源集合](http://ruby-china.org/topics/7853)

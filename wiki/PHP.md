@@ -67,6 +67,7 @@
     * [php-utf8](http://php-utf8.61924.nl/)
     * [中文分词PHP扩展 MFSOU](http://www.oschina.net/p/mfsou)
     * [SimpleSearch(SPS)](http://www.500ju.com/simplesearch/) 是在linux平台下使用c/c++开发，专为PHP开发人员而研发的一款搜索引擎，其基于Xapian开发，目标是让所有PHP开发人员都很容易解决百万级数量以上的全文检索需求。
+    * [WordPress 速查手册](http://www.cnblogs.com/lhb25/p/20-wordpress-cheat-sheets.html)
 
 ## 技巧
 * [PHP分页技术的代码和示例](http://coolshell.cn/articles/5160.html)
@@ -84,4 +85,4 @@
     * [php程序员面试题目](http://obatu.sinaapp.com/php-programmer-interview-questions/)
     * [三套笔试题目](http://obatu.sinaapp.com/three-sets-of-written-questions/)
 * 资源
-    * [WordPress 速查手册](http://www.cnblogs.com/lhb25/p/20-wordpress-cheat-sheets.html)
+    * [DouPHP轻量级企业建站系统](http://www.douco.com/)

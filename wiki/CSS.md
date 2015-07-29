@@ -3,7 +3,6 @@
 * [关于CSS Selector的优先级](http://www.blueidea.com/tech/web/2011/8388.asp)
 * [CSS长度值及时间、频率、角度单位](http://www.zhangxinxu.com/wordpress/?p=1494)
 * CSS 相对|绝对(relative/absolute)定位系列 [一](http://www.zhangxinxu.com/wordpress/?p=1287) [二](http://www.zhangxinxu.com/wordpress/2010/12/css-%e7%9b%b8%e5%af%b9%e7%bb%9d%e5%af%b9relativeabsolute%e5%ae%9a%e4%bd%8d%e7%b3%bb%e5%88%97%ef%bc%88%e4%ba%8c%ef%bc%89/) [三](http://www.zhangxinxu.com/wordpress/?p=1528) [四](http://www.zhangxinxu.com/wordpress/2011/08/css%e7%9b%b8%e5%af%b9%e5%ae%9a%e4%bd%8drelative%e7%bb%9d%e5%af%b9%e5%ae%9a%e4%bd%8dabsolute%e7%b3%bb%e5%88%97%ef%bc%88%e5%9b%9b%ef%bc%89/)[五](http://www.zhangxinxu.com/wordpress/2011/08/css%e7%9b%b8%e5%af%b9%e5%ae%9a%e4%bd%8d%e7%bb%9d%e5%af%b9%e5%ae%9a%e4%bd%8d%e4%ba%94%e4%b9%8bz-index%e7%af%87/)
-* [CSS box-flex属性，然后弹性盒子模型简介](http://www.zhangxinxu.com/wordpress/?p=1338)
 * [CSS页面重构“鑫三无准则”之“无图片”准则](http://www.zhangxinxu.com/wordpress/2011/05/css%E9%A1%B5%E9%9D%A2%E9%87%8D%E6%9E%84%E9%91%AB%E4%B8%89%E6%97%A0%E5%87%86%E5%88%99%E4%B9%8B%E6%97%A0%E5%9B%BE%E7%89%87%E5%87%86%E5%88%99/)
 * [CSS流体(自适应)布局下宽度分离原则](http://www.zhangxinxu.com/wordpress/?p=1463)
 * [vertical-align的理解](http://www.cnblogs.com/onlysea/archive/2011/09/23/2185480.html)
@@ -16,6 +15,9 @@
 * [inline-blcok 前世今生](http://ued.taobao.com/blog/2012/08/15/inline-blcok/)
 * [那些年我们一起清除过的浮动](http://www.cnblogs.com/lhb25/p/story-of-clear-float.html)
 * [CSS居中完全指南](http://css-tricks.com/centering-css-complete-guide/)
+* [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [深入了解 Flexbox 伸缩盒模型](http://www.zhangxinxu.com/wordpress/?p=1338)
+* [CSS box-flex属性，然后弹性盒子模型简介](http://www.zhangxinxu.com/wordpress/?p=1338)
 
 ## 规范
 * [CSS命名准则和方法](http://www.blueidea.com/tech/web/2010/7972.asp)

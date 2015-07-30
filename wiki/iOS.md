@@ -25,7 +25,12 @@
 * [UIResponder](http://southpeak.github.io/blog/2015/03/07/uiresponder/)
 
 ## React Native
+* [USE REACT NATIVE](http://www.reactnative.com/animated-pull-to-refresh-in-react-native/)
 * [深入浅出 React Native：使用 JavaScript 构建原生应用](http://zhuanlan.zhihu.com/FrontendMagazine/19996445)
+* [Designing CSS Layouts With Flexbox Is As Easy As Pie](http://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
+* [react-style](https://github.com/js-next/react-style)
+* [React: CSS in JS by vjeux](https://speakerdeck.com/vjeux/react-css-in-js)
+* [react-native 之布局篇](https://github.com/tmallfe/tmallfe.github.io/issues/19)
 
 ## 第三方框架
 * [极速化 CocoaPods](http://www.cocoachina.com/ios/20150123/11002.html)

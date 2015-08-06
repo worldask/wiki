@@ -1,3 +1,4 @@
+* [.NET技术栈](http://www.cnblogs.com/unruledboy/p/NetStack.html)
 * [IIS 5.0 和 6.0 的 ASP.NET 应用程序生命周期概述](http://msdn.microsoft.com/zh-cn/library/ms178473.aspx)
 * [ASP.NET 页生命周期概述](http://msdn.microsoft.com/zh-cn/library/ms178472.aspx)
 * [DotNet C#开源资源汇总](http://blog.csdn.net/yiruoyun/article/details/6390020)

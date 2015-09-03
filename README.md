@@ -10,7 +10,6 @@
 * [Linux](wiki/Linux.md) 
 
 ## [网络](wiki/网络.md)
-* [爬墙技术](wiki/爬墙技术.md) 
 
 ## [全栈资源](wiki/全栈资源.md)
 

@@ -50,6 +50,7 @@
 * 模板
     * [Smarty](http://www.smarty.net/)
 * 调试
+    * [关于PHP程序员解决问题的能力](http://rango.swoole.com/archives/340)
     * [Anbu](https://github.com/daylerees/anbu) profiler for the Laravel PHP Framework.
     * [laravel-debugbar
 ](https://github.com/barryvdh/laravel-debugbar)
@@ -71,7 +72,6 @@
 
 ## 技巧
 * [PHP分页技术的代码和示例](http://coolshell.cn/articles/5160.html)
-* [win7 php5.3.10下安装memcache](http://www.cnblogs.com/whoknows/articles/memcache_php5-3-10_win32.html)
 * [Websocket和PHP Socket编程](http://blog.csdn.net/trace332/article/details/6325986)
 
 ## 其它

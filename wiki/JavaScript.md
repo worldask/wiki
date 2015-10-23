@@ -48,6 +48,7 @@
 * React
     * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
     * [谈谈React的核心入门知识](http://wwsun.me/posts/react-getting-started.html)
+    * [图解 Flux](http://zhuanlan.zhihu.com/FrontendMagazine/20263396)
 * jQuery
     * [jQuery与MooTools库的一些比对](http://www.zhangxinxu.com/wordpress/2011/09/jquery%E4%B8%8Emootools%E5%BA%93%E7%9A%84%E4%B8%80%E4%BA%9B%E6%AF%94%E5%AF%B9/)
     * [12个学习jQuery的网站](http://www.cnblogs.com/lhb25/archive/2011/04/28/2025752.html)

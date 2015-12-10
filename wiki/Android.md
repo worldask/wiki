@@ -21,6 +21,7 @@
 * [iOS程序员必须知道的Android要点](http://blog.jobbole.com/67098/)
 
 ## 工具
+* [深入理解Android（一）：Gradle详解](http://www.infoq.com/cn/articles/android-in-depth-gradle)
 * [Remote Debugging Chrome on Android](https://developers.google.com/chrome-developer-tools/docs/remote-debugging)
 * [通过WIFI调试Android程序](http://www.feeldesignstudio.com/2013/10/eclipse-debug-android-project-by-wifi)
 

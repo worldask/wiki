@@ -47,6 +47,7 @@
     * [Seagull](http://seagullproject.org/)
     * [ThinkPHP](http://thinkphp.cn)
     * [Yaf是一个C语言编写的PHP框架](http://www.oschina.net/p/php-yaf)
+    * [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
 * 模板
     * [Smarty](http://www.smarty.net/)
 * 调试

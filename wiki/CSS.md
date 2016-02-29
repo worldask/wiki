@@ -38,8 +38,6 @@
 * [让CSS在各浏览器获得一致效果](http://necolas.github.com/normalize.css/)
 
 ## 框架 
-* [9个优秀的CSS框架](http://www.codeceo.com/article/9-css-framework.html)
-* [15个CSS框架](http://www.iwanna.cn/archives/2010/12/22/6152/)
 * [960 Grid System](http://960.gs/) [unsemantic](http://unsemantic.com/)
 * [BootStrap](http://getbootstrap.com/)
 * [Foundation](http://foundation.zurb.com/)

@@ -5,6 +5,7 @@
 * [代码管理](wiki/代码管理.md)
 * [Cheat Sheets](wiki/Cheat-Sheets.md)
 * [开源](wiki/开源.md)
+* [StuQ 技能图谱 v0.1.2](http://www.stuq.org/subject/skill-map/)
 
 ## [操作系统](wiki/操作系统.md)
 * [Linux](wiki/Linux.md) 

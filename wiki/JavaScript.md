@@ -23,7 +23,7 @@
     * [综合版](http://www.gracecode.com/archives/2385/)
     * [闭包与作用域链](http://www.cnblogs.com/wickzly/archive/2011/09/04/2166857.html)
     * [理解Javascript的闭包](http://coolshell.cn/articles/6731.html)
-* [How do JavaScript closures work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
+    * [How do JavaScript closures work?](http://stackoverflow.com/questions/111102/how-do-javascript-closures-work)
 * [定义类的三种方法](http://www.ruanyifeng.com/blog/2012/07/three_ways_to_define_a_javascript_class.html)
 * JavaScript模块化开发[一](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-basics) [二](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-commonjs) [三](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-amd) [四](http://www.feeldesignstudio.com/2013/09/javascript-module-pattern-requirejs) [五](http://www.feeldesignstudio.com/2013/10/javascript-module-pattern-further-reading)
 * 谈谈javascript语法里一些难点问题 [一](http://blog.jobbole.com/81010/) [二](http://blog.jobbole.com/81011/) [三](http://blog.jobbole.com/81018/)
@@ -43,7 +43,7 @@
 * [全栈式JavaScript](http://blog.jobbole.com/52745/)
 * AngularJs
     * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
-* [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
+    * [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
     * [25个超有用的 AngularJS Web 开发工具](http://www.codeceo.com/article/25-angularjs-web-tools.html) 
 * React
     * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)

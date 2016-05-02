@@ -11,6 +11,7 @@
 ## 教程
 * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * 阮一峰写的[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [汤姆大叔：深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [JavaScript内部原理系列](https://github.com/trans4fun/posts)
@@ -42,6 +43,7 @@
 * [JavaScript基础工具清单](http://blog.jobbole.com/64771/)
 * [全栈式JavaScript](http://blog.jobbole.com/52745/)
 * AngularJs
+    * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
     * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
     * [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
     * [25个超有用的 AngularJS Web 开发工具](http://www.codeceo.com/article/25-angularjs-web-tools.html) 

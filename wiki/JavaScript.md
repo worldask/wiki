@@ -46,9 +46,11 @@
     * [Understanding Scopes](https://github.com/angular/angular.js/wiki/Understanding-Scopes)
     * [Why Does Angular.js Rock?](http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/)
     * [构建自己的AngularJS，第一部分：Scope和Digest](http://www.ituring.com.cn/article/39865#)
+    * [My Top 20 Favorite Angular JS Developer Tools](https://dzone.com/articles/my-top-20-favorite-angular-js-developer-tools)
     * [25个超有用的 AngularJS Web 开发工具](http://www.codeceo.com/article/25-angularjs-web-tools.html) 
 * React
     * [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
+    * [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)
     * [谈谈React的核心入门知识](http://wwsun.me/posts/react-getting-started.html)
     * [图解 Flux](http://zhuanlan.zhihu.com/FrontendMagazine/20263396)
 * jQuery

@@ -14,7 +14,7 @@
 * [Learn Linux The Hard Way](http://nixsrv.com/?id=llthw)
 * [鳥哥的 Linux 私房菜](http://linux.vbird.org/)
 * [linux安装软件的基本操作](http://blog.csdn.net/dream19881003/article/details/6645416)
-
+* [SELinux](https://wiki.centos.org/zh/HowTos/SELinux)
 
 ## Shell
 * [Unix 基本命令](http://blog.csdn.net/cwallow/article/details/7302926)

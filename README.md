@@ -6,7 +6,7 @@
 * [Cheat Sheets](wiki/Cheat-Sheets.md)
 * [开源](wiki/开源.md)
 * [StuQ 技能图谱 v0.1.2](http://www.stuq.org/subject/skill-map/)
-
+* [机器学习学习计划](http://www.leiphone.com/news/201611/P6ztj6p2tO5IC9MY.html)
 ## [操作系统](wiki/操作系统.md)
 * [Linux](wiki/Linux.md) 
 

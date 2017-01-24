@@ -3,9 +3,9 @@
 
 ## 教程
 * [廖雪峰的Python2.7教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
-* [安装](http://blog.csdn.net/yuejingjiahong/article/details/6659375)
+* [learnxinyminutes](https://learnxinyminutes.com/docs/python/)
+* [cheat sheet](http://www.cogsci.rpi.edu/~destem/igd/python_cheat_sheet.pdf)
 * [简明 Python 教程](http://woodpecker.org.cn/abyteofpython_cn/chinese/index.html)
-* [啄木鸟社区](http://wiki.woodpecker.org.cn/moin/%E9%A6%96%E9%A1%B5)
 * [笨办法学Python](http://lpthw-cn.ducktypist.com/en/latest/index.html)
 
 ## 开发框架 

@@ -5,7 +5,7 @@
 * [代码管理](wiki/代码管理.md)
 * [Cheat Sheets](wiki/Cheat-Sheets.md)
 * [开源](wiki/开源.md)
-* [StuQ 技能图谱 v0.1.2](http://www.stuq.org/subject/skill-map/)
+* [StuQ 技能图谱 v0.1.2](http://www.stuq.org/subject/skill-map/) [知道创宇研发技能表v3.1](http://blog.knownsec.com/Knownsec_RD_Checklist/)
 * [机器学习学习计划](http://www.leiphone.com/news/201611/P6ztj6p2tO5IC9MY.html) [十大机器学习公开课](http://www.leiphone.com/news/201701/0milWCyQO4ZbBvuW.html)
 
 ## [操作系统](wiki/操作系统.md)

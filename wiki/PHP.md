@@ -5,6 +5,7 @@
 * [PHP之道](http://wulijun.github.com/php-the-right-way/)
 * [Specification for PHP](https://github.com/php/php-langspec/blob/master/spec/php-spec-draft.md)
 * [PHP编程规范](http://blog.csdn.net/youacai/article/details/6291422)
+* [PHP程序员的三重进阶](https://mp.weixin.qq.com/s?__biz=MzA3MjEyNTE4MQ==&mid=2652726725&idx=1&sn=b9583c3b82c8981125076e7195b9f10a&chksm=84cada57b3bd53418ccc9022773c1e94c319d31dee7c895c19df6208920e3172dc7d04619683&mpshare=1&scene=1&srcid=01191dj9WbbacFdYV5pP20rd&key=9089d717e4fbaa8298cf6c938bf5e41dbd51948a22c1c981c5050bf6cd6fb89e92ced975e693d62fa4b8348429b6681c1623e0f71ccb2e8c809cafdba24e29ee56f9f88151ee36052cb7fea4057aaff9&ascene=0&uin=MjA3NzExNjA4NA%3D%3D&devicetype=iMac+MacBookPro11%2C1+OSX+OSX+10.12.3+build(16D32)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=K39x40UoCUGHKRH9yUbQ%2FAvFHj1iqTiY3eEL%2FopksdxJiZqtM8ZwQ%2FJX36xz3FIs)
 
 ## 内核
 * [PHP内核探索](PHP内核探索.md)

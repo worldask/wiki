@@ -11,7 +11,7 @@
 ## 教程
 * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * 阮一峰写的[JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
-* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) [中文版](http://www.oschina.net/translate/learning-javascript-design-patterns)
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
 * [汤姆大叔：深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [JavaScript内部原理系列](https://github.com/trans4fun/posts)

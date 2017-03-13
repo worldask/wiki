@@ -24,6 +24,7 @@
      * [深入了解 Flexbox 伸缩盒模型](http://www.zhangxinxu.com/wordpress/?p=1338)
      * [CSS box-flex属性，然后弹性盒子模型简介](http://www.zhangxinxu.com/wordpress/?p=1338)
      * [A simple guide to responsive design](http://www.adamkaplan.me/grid/)
+     * [这可能是史上最全的CSS自适应布局总结教程](http://www.cnblogs.com/qieguo/p/5421252.html)
 * 其它
      * [CSSOM视图模式(CSSOM View Module)](http://www.zhangxinxu.com/wordpress/2011/09/cssom%E8%A7%86%E5%9B%BE%E6%A8%A1%E5%BC%8Fcssom-view-module%E7%9B%B8%E5%85%B3%E6%95%B4%E7%90%86%E4%B8%8E%E4%BB%8B%E7%BB%8D/)
      * [一些CSS使用技巧](http://www.ruanyifeng.com/blog/2010/03/css_cookbook.html)

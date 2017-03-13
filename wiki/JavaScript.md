@@ -7,6 +7,7 @@
 * 阮一峰[ECMAScript 6 入门](http://es6.ruanyifeng.com)
 * [CommonJS Modules规范](http://www.commonjs.org/specs/modules/1.0/)
 * [为什么移动Web应用程序很慢（译）](http://www.cnblogs.com/codemood/p/3213459.html) [原文](http://sealedabstract.com/rants/why-mobile-web-apps-are-slow/)
+* [2016 JavaScript Rising Stars](https://risingstars2016.js.org/)
 
 ## 教程
 * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)

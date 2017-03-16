@@ -39,6 +39,8 @@
 ## 第三方
 * 框架
     * [PHP开发者应了解的24个库](http://blog.jobbole.com/54201/)
+    * [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
+    * [Laravel的核心概念](https://lufficc.com/blog/the-core-conception-of-laravel) [如何理解 Laravel 的 Ioc 容器](https://segmentfault.com/a/1190000008668208)
     * [Zend Framework](http://www.zend.com/)  [手册](http://www.zfchina.org/manual/zh/index.html)  
     * [YiiFramework](http://yii.yiichina.org/)
     * [DoitPHP](http://www.oschina.net/p/DoitPHP)  [手册](http://www.doitphp.com/documentation/index.html)  
@@ -48,7 +50,6 @@
     * [Seagull](http://seagullproject.org/)
     * [ThinkPHP](http://thinkphp.cn)
     * [Yaf是一个C语言编写的PHP框架](http://www.oschina.net/p/php-yaf)
-    * [50 Laravel Tricks in 50 Minutes](https://speakerdeck.com/willroth/50-laravel-tricks-in-50-minutes)
 * 模板
     * [Smarty](http://www.smarty.net/)
 * 调试
